@@ -4,5 +4,5 @@
 
 ## View Part of Web Pages
 
-![Image](/public/homepage.JPG)
-![Image](/public/detailedpage.JPG)
+![Image](./public/homepage.png)
+![Image](./public/detailedpage.png)
